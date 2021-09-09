@@ -1,4 +1,4 @@
-def binary_search(arr, low, high, x): 
+def binary_search(arr, low, high, x): #I used recursion here
   
     if high >= low: 
   
